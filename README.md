@@ -4,7 +4,7 @@
 
 ☠️ Code to find the percentage of each voter group.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Exercício básico de JS com operadores aritméticos,
 primeira vez que usei a função To fixed para organizar
@@ -14,7 +14,7 @@ os valores de float.
 time I used the To fixed function to organize the 
 float values.
 
-## Stack utilizada
+## Stack utilizada | Stack used
 
 **Front-end:** VS Code | HTML
 
