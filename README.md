@@ -1,4 +1,4 @@
-# Votação | vote
+# Votação | Vote
 
 ☠️ Código para achar a porcentagem de cada grupo eleitor.
 
